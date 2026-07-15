@@ -1,0 +1,10 @@
+bin/
+*.db
+logs/
+obj/
+StudentPetitionAPI/bin/
+StudentPetitionAPI/*.db
+StudentPetitionAPI/logs/
+StudentPetitionAPI/obj/
+*.user
+.vs/
